@@ -2,6 +2,8 @@
 
 A full-stack manufacturing dashboard built to simulate the kind of system used at a plastics compounding facility. Built as interview preparation for a Full Stack Developer co-op role at Kal-Polymers.
 
+![image](./image.png)
+
 ## Stack
 - **Frontend:** React, Vite, Recharts, CSS
 - **Backend:** Python, Flask, SQLite, flask-cors
